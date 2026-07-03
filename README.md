@@ -1,6 +1,6 @@
 ### Hi, I'm Furqan 👋
 
-I build AI-agent systems, retrieval platforms, and the developer tooling around them — mostly Python, with Django and TypeScript where the project calls for it. Below are a few projects that show that work in more depth than a repo list can.
+I build full-stack systems and the AI-agent tooling around them — from retrieval and observability infrastructure for LLM agents to industrial production monitoring platforms, across Python, .NET, and TypeScript depending on what the project calls for. Below are five projects that show that work in more depth than a repo list can.
 
 Some of my other work lives in private client/employer repos and isn't included here for confidentiality reasons.
 
