@@ -21,6 +21,11 @@ A full-stack factory production monitoring / OEE system across three repos: [API
 
 **Stack:** ASP.NET Core · PostgreSQL · IdentityServer · Hangfire · MQTT · Angular · Kendo UI
 
+### 📡 [Agentic Observability Platform](https://github.com/furqan90/agentic-observability-platform)
+Observability infrastructure purpose-built for AI agent workloads: agents anywhere (Kubernetes, a chat bot, a client VM) phone home over OpenTelemetry to a collector that fans out to LangFuse (trace/eval/cost analytics) and Prometheus + Grafana (RED metrics correlated against the infrastructure agents run on). Ships as a one-command local Docker Compose stack with a thin SDK facade so tracing backends can be swapped without touching agent code.
+
+**Stack:** OpenTelemetry · LangFuse · Prometheus · Grafana · Docker Compose · Python SDK
+
 ### 💬 [SC Routing Assistant](https://github.com/furqan90/sc-routing-assistant)
 A Django app wrapping a LangGraph conversational agent (OpenAI GPT-4o) with tool use — live web search and date-aware reasoning — and per-user persistent memory via SQLite checkpointing. Containerized with Docker + Nginx and deployed through a GitHub Actions → AWS ECR/EC2 pipeline.
 
