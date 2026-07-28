@@ -22,7 +22,7 @@ A full-stack factory production monitoring / OEE system across three repos: [API
 **Stack:** ASP.NET Core · PostgreSQL · IdentityServer · Hangfire · MQTT · Angular · Kendo UI
 
 ### 🤖 [DevEnv Agent](https://github.com/furqan90/ai_mediated_platform_engineering)
-An AI-mediated platform-engineering tool: given a natural-language project description, it validates a structured spec and produces a runnable scaffold — repo, CI pipeline, IdP realm/clients, Docker Compose stack, and docs — through a planner that turns the spec into a gated, multi-phase execution plan with pluggable "skills" per capability.
+An AI-mediated platform-engineering tool: given a natural-language project description, it validates a structured spec and produces a runnable scaffold — repo, CI pipeline, IdP realm/clients, Docker Compose stack, and docs, through a planner that turns the spec into a gated, multi-phase execution plan with pluggable "skills" per capability.
 
 **Stack:** Python · JSON Schema · Spring Boot code generation · pytest
 
