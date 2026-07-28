@@ -27,7 +27,7 @@ An AI-mediated platform-engineering tool: given a natural-language project descr
 **Stack:** Python · JSON Schema · Spring Boot code generation · pytest
 
 ### 💬 [SC Routing Assistant](https://github.com/furqan90/sc-routing-assistant)
-A Django app wrapping a LangGraph conversational agent (OpenAI GPT-4o) with tool use — live web search and date-aware reasoning — and per-user persistent memory via SQLite checkpointing. Containerized with Docker + Nginx and deployed through a GitHub Actions → AWS ECR/EC2 pipeline.
+A Django app wrapping a LangGraph conversational agent (OpenAI GPT-4o) with tool use, live web search and date-aware reasoning and per-user persistent memory via SQLite checkpointing. Containerized with Docker + Nginx and deployed through a GitHub Actions → AWS ECR/EC2 pipeline.
 
 **Stack:** Django · LangGraph · LangChain · Docker · GitHub Actions · AWS
 
